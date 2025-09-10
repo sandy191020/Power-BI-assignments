@@ -1,99 +1,110 @@
-Power-BI-Assignments
+<h1 align="center">🚀 <b>Power-BI-Assignments</b> 🚀</h1>
 
-This repository contains a collection of Power BI Desktop assignments that demonstrate end-to-end workflows for building interactive dashboards and reports. These assignments cover a variety of Power BI concepts such as data modelling, DAX calculations, slicers, bookmarks, tooltips, maps, and charts.
+<p align="center">
+This repository contains a collection of <b>Power BI Desktop assignments</b> that demonstrate 
+end-to-end workflows for building <i>interactive dashboards and reports</i>.
+</p>
 
-🚀 What’s Inside
+---
 
-Assignments in this repo walk through the typical workflow of creating a Power BI project:
+<h2>📂 What’s Inside</h2>
 
-Loading Data
+<ul>
+  <li><b>Loading Data</b>
+    <ul>
+      <li>Importing datasets from Excel/CSV into Power BI.</li>
+      <li>Cleaning and shaping data in Power Query.</li>
+    </ul>
+  </li>
+  
+  <li><b>Data Modelling</b>
+    <ul>
+      <li>Creating relationships between multiple tables.</li>
+      <li>Managing primary/foreign keys and cardinality.</li>
+      <li>Building a logical model for analysis.</li>
+    </ul>
+  </li>
 
-Importing datasets from Excel/CSV into Power BI.
+  <li><b>DAX (Data Analysis Expressions)</b>
+    <ul>
+      <li>Creating calculated columns (e.g., extracting Year from Date).</li>
+      <li>Writing measures for aggregations (<code>SUM</code>, <code>COUNT</code>, <code>AVERAGE</code>).</li>
+      <li>Using functions like <code>RELATED()</code>, <code>SELECTEDVALUE()</code>, <code>IF()</code>.</li>
+    </ul>
+  </li>
 
-Cleaning and shaping data in Power Query.
+  <li><b>Filtering & Slicers</b>
+    <ul>
+      <li>Adding slicers to filter data dynamically.</li>
+      <li>Building measures that respond to slicer selections.</li>
+    </ul>
+  </li>
 
-Data Modelling
+  <li><b>Interactive Visuals</b>
+    <ul>
+      <li>Charts: column, line, tree map, pie.</li>
+      <li>Maps for location-based data visualization.</li>
+      <li>Tooltips for hover-based context.</li>
+      <li>Bookmarks & buttons for custom navigation.</li>
+    </ul>
+  </li>
 
-Creating relationships between multiple tables.
+  <li><b>Reports & Dashboards</b>
+    <ul>
+      <li>Combining visuals into structured reports.</li>
+      <li>Using drill-down & cross-filtering.</li>
+      <li>Formatting visuals for readability and storytelling.</li>
+    </ul>
+  </li>
+</ul>
 
-Using primary/foreign keys and managing cardinality.
+---
 
-Building a logical model for analysis.
+<h2>📘 Assignments Included</h2>
+<p>
+This repo contains Power BI assignments: <b>2, 3, 4, 5, 12, 13, 14, 15, 17, 18</b>.
+</p>
+<p>
+Each assignment focuses on specific Power BI features but together they build a solid foundation for:
+</p>
 
-DAX (Data Analysis Expressions)
+<ul>
+  <li>Data modelling with multiple tables</li>
+  <li>Writing and applying DAX formulas</li>
+  <li>Building slicers and dynamic filters</li>
+  <li>Enhancing interactivity with bookmarks & tooltips</li>
+  <li>Creating map visuals with drill-down</li>
+  <li>Designing cross-filtering dashboards</li>
+</ul>
 
-Creating calculated columns (e.g., extracting Year from Date).
+---
 
-Writing measures for aggregations (SUM, COUNT, AVERAGE).
+<h2>⚡ Skills Demonstrated</h2>
 
-Using functions like RELATED(), SELECTEDVALUE(), and IF().
+<ul>
+  <li>Structuring datasets for analysis</li>
+  <li>Building table relationships</li>
+  <li>Writing calculated columns & measures in DAX</li>
+  <li>Applying slicers for interactive filtering</li>
+  <li>Designing clean, interactive dashboards</li>
+</ul>
 
-Filtering & Slicers
+---
 
-Adding slicers to filter data dynamically.
+<h2>📌 How to Use</h2>
 
-Building DAX measures that show values only when a slicer is selected.
+<ol>
+  <li>Clone/download this repository.</li>
+  <li>Open any <code>.pbix</code> file in Power BI Desktop.</li>
+  <li>Explore dataset, model, and report pages.</li>
+  <li>Interact with slicers, bookmarks, and tooltips to test functionality.</li>
+</ol>
 
-Interactive Visuals
+---
 
-Creating charts (column, line, tree map, pie).
-
-Designing maps to visualize location-based data.
-
-Using tooltips for additional context on hover.
-
-Applying bookmarks & buttons for custom navigation.
-
-Reports & Dashboards
-
-Combining visuals into well-structured reports.
-
-Using drill-down & cross-filtering for deeper insights.
-
-Formatting visuals for readability and storytelling.
-
-📂 Assignments Included
-
-This repo contains Power BI assignments: 2, 3, 4, 5, 12, 13, 14, 15, 17, 18.
-Each focuses on specific Power BI features, but together they provide a solid foundation for:
-
-Data modelling with multiple tables
-
-Writing and applying DAX formulas
-
-Building slicers and dynamic filters
-
-Enhancing interactivity with bookmarks & tooltips
-
-Creating map visuals with drill-down
-
-Designing charts and cross-filtering dashboards
-
-⚡ Skills Demonstrated
-
-By going through these assignments, you’ll practice:
-
-Structuring datasets for analysis
-
-Building relationships between tables
-
-Writing calculated columns & measures in DAX
-
-Applying interactive filters with slicers
-
-Designing clean and interactive dashboards
-
-📌 How to Use
-
-Clone/download this repository.
-
-Open any .pbix file in Power BI Desktop.
-
-Explore the dataset, model, and report pages.
-
-Interact with slicers, bookmarks, and tooltips to see functionality.
-
-📜 License
-
-This project is licensed under a custom restrictive license.
-👉 You may view and reference the code for educational purposes, but copying, modifying, or redistributing without permission is not allowed.
+<h2>📜 License</h2>
+<p>
+This project is licensed under a <b>custom restrictive license</b>.<br>
+👉 You may <b>view</b> and <b>reference</b> the code for educational purposes, 
+but redistribution or commercial use is prohibited without permission.
+</p>
